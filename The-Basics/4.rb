@@ -1,0 +1,5 @@
+array=[2001,1939,2001,2016]
+puts array[0]
+puts array[1]
+puts array [2]
+puts array[3]
